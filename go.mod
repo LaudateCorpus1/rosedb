@@ -12,7 +12,6 @@ require (
 	github.com/tidwall/btree v0.5.0 // indirect
 	github.com/tidwall/redcon v1.4.1
 	github.com/vmihailenco/msgpack/v5 v5.3.4
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/grpc v1.41.0
-	google.golang.org/protobuf v1.26.0-rc.1 // indirect
 )
